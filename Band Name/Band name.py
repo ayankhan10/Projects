@@ -6,6 +6,7 @@
 # Input from the users
 name_city = input("Enter the name of your city: ")
 name_pet = input("Enter the name of your pet: ")
+# temp for adding to git
 
 # Band name 
 band_name = name_city + name_pet
